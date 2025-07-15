@@ -1,0 +1,12 @@
+
+## 🚀 Deploy
+
+- **Render:** One-click deploy via `render.yaml`
+- **Koyeb/Heroku:** Use `Procfile` and `.env` with worker type
+
+## 🧠 Features
+
+- ✅ M3U8 to MP4 via ffmpeg
+- ✅ ZIP extraction
+- ✅ File auto-open (OS-based)
+- ✅ Future-ready Telegram bot integration
